@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo **Docker, React Native e Ingles**
 
-- 👨‍💻 All of my projects are available at [https://victor-alvarez.vercel.app](https://victor-alvarez.vercel.app)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://victor-alvarez.vercel.app](https://victor-alvarez.vercel.app)
 
 - ⚡ Dato curioso, **me gusta aprender nuevas tecnologias**
 
