@@ -1,21 +1,75 @@
-<h1 align="center">Hola 👋, mi nombre es Victor Alvarez</h1>
-<h3 align="center">Soy un apasionado desarrollador Full Stack de Venezuela.</h3>
 
-- 🔭 Estoy trabajando en un **blog con Laravel Jetstream**
+# 👋 Hola, soy Víctor Alvarez
 
-- 🌱 Estoy aprendiendo **Docker, React Native e Ingles**
+🎯 **Ingeniero de Software con +4 años de experiencia**, apasionado por construir plataformas web modernas, seguras y escalables. Me encanta aprender nuevas tecnologías, colaborar en proyectos desafiantes y mantenerme siempre en evolución.
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://victor-alvarez.vercel.app](https://victor-alvarez.vercel.app)
+---
 
-- ⚡ Dato curioso, **me gusta aprender nuevas tecnologias**
+## 🚀 Sobre mí
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alvrzdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvrzdeveloper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alvarez3197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvarez3197/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://es.stackoverflow.com/users/112233/víctor-álvarez?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://es.stackoverflow.com/users/112233/víctor-álvarez?tab=profile" height="30" width="40" /></a>
-</p>
+🧠 Soy Ingeniero de Software especializado en tecnologías web como **JavaScript, TypeScript, NestJS, React y Docker**. He trabajado en proyectos para sectores bancarios, gubernamentales y educativos, enfocándome en soluciones de alto rendimiento y escalabilidad.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+🌍 Actualmente vivo en **Caracas, Venezuela**, y estoy en constante aprendizaje. En estos momentos, estoy profundizando en **Flutter, React Native e Inglés**.
 
+🔐 Apasionado por los microservicios, los despliegues eficientes y la escritura de código mantenible.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+```txt
+JavaScript • TypeScript • NestJS • React • Next.js • React Native • Node.js • Vue.js
+Flutter • Laravel • PostgreSQL • MySQL • Oracle • Prisma ORM • Docker • NGINX
+Git • GitHub • GitFlow • CI/CD • Scrum • JWT • WebSockets • Figma • Photoshop
+```
+
+---
+
+## 💼 Experiencia Profesional
+
+### 🔐 FIIIDT – Centro de Seguridad Informática y Certificación Electrónica  
+*Ingeniero de Software* – (06/2024 – Actualidad)  
+- Plataforma de validación de firmas digitales
+- Arquitectura basada en microservicios con NestJS & Next.js
+- Aplicaciones electorales seguras y en tiempo real
+- Despliegues con Docker + GitFlow bajo metodología Scrum
+
+### 🏦 Bancamiga Banco Universal  
+*Especialista en Inteligencia de Negocios* – (11/2018 – 07/2021)  
+- Dashboards financieros con React + Oracle
+- Automatización de reportes internos
+- Integración y despliegue con Docker
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Flutter 📱
+- React Native 📱
+- Inglés (B1 → buscando B2+) 🇬🇧
+
+---
+
+## 📚 Certificaciones
+
+- React.js – Udemy  
+- Node.js – Udemy  
+- NestJS – DevTalles  
+- Docker – DevTalles  
+- Flutter – DevTalles  
+- OpenAI Assistants – DevTalles  
+- TanStack Query – DevTalles  
+- ...y más
+
+---
+
+## 🌐 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vhalvarez-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vhalvarez)
+
+📫 **Email:** alvarez3197@gmail.com  
+📍 Caracas, Venezuela
+
+---
+
+> ✨ *"El mejor código es el que resuelve un problema real y puede evolucionar con el tiempo."*
