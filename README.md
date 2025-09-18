@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy Víctor Alvarez
 
-🎯 **Ingeniero de Software con +4 años de experiencia**, apasionado por construir plataformas web modernas, seguras y escalables. Me encanta aprender nuevas tecnologías, colaborar en proyectos desafiantes y mantenerme siempre en evolución.
+🎯 **Ingeniero de Software con 7 años de experiencia**, apasionado por construir plataformas web modernas, seguras y escalables. Me encanta aprender nuevas tecnologías, colaborar en proyectos desafiantes y mantenerme siempre en evolución.
 
 ---
 
